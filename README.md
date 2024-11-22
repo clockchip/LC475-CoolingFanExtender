@@ -27,5 +27,4 @@ This can be printed without supports. On an FDM 3D printer this should be printe
 
 <a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a>
 
-<p xmlns:cc="http://creativecommons.org/ns#"  xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title"  rel="cc:attributionURL"  href="https://github.com/alxlab-zone66x/68040_Heatsink_Clip">68040 Heatsink Clip</a> by <a rel="cc:attributionURL  dct:creator" property="cc:attributionName"  href="https://www.alxlab.com">Alexandre Marcoux</a> is licensed  under <a  href="http://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1"  target="_blank" rel="license noopener noreferrer"  style="display:inline-block;">CC BY-NC-SA 4.0</a></p>  
-
+<p xmlns:cc="http://creativecommons.org/ns#"  xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title"  rel="cc:attributionURL"  href="https://github.com/clockchip/LC475-CoolingFanExtender">LC475-CoolingFanExtender</a> by clockchip is licensed  under <a  href="http://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1"  target="_blank" rel="license noopener noreferrer"  style="display:inline-block;">CC BY-NC-SA 4.0</a></p>  
