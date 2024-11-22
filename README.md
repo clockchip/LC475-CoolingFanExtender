@@ -15,7 +15,7 @@ The solution is split into two separate parts: the bottom part, which will be mo
 
 The bottom section should be printed with supports due to the presence of small notches that require additional structural backing.
 
-The top lid can be printed without any support structures; however, the Z-axis must be rotated 180 degrees to ensure a smooth interior finish. 
+The top lid can be printed without any support structures; however, the Y-axis must be rotated 180 degrees to ensure a smooth interior finish. 
 This adjustment optimizes airflow and prevents dust from adhering to the inside surface.
 
 Additionally, I recommend using heat-resistant filaments for printing these parts.
