@@ -10,3 +10,22 @@ This enhances cooling performance and system stability.
 
 This modification is highly recommended to maintain optimal temperatures under high-performance conditions, especially if you overclock your LC475 to 33 MHz or 40 MHz.
 The solution is split into two separate parts: the bottom part, which will be mounted with three screws on top of the original fan, and the top lid.
+
+## Printing Notes
+
+This can be printed without supports. On an FDM 3D printer this should be printed with enough outer shells to make it 100% solid.
+
+
+
+## Pictures
+
+<img src="docs/fan1.jpg" style="display: inline-block; width: 49%;" alt="Picture of the mounted bottom part" /><img src="docs/fan2.jpg" style="display: inline-block; width: 49%;" alt="Picture installed top lid" />
+
+
+
+## License
+
+<a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a>
+
+<p xmlns:cc="http://creativecommons.org/ns#"  xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title"  rel="cc:attributionURL"  href="https://github.com/alxlab-zone66x/68040_Heatsink_Clip">68040 Heatsink Clip</a> by <a rel="cc:attributionURL  dct:creator" property="cc:attributionName"  href="https://www.alxlab.com">Alexandre Marcoux</a> is licensed  under <a  href="http://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1"  target="_blank" rel="license noopener noreferrer"  style="display:inline-block;">CC BY-NC-SA 4.0</a></p>  
+
