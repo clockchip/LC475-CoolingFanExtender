@@ -22,7 +22,9 @@ Additionally, I recommend using heat-resistant filaments for printing these part
 
 ## Pictures
 
-![Picture of the mounted bottom part](/docs/fan1.jpg)
+<p align="center">
+    <img src="docs/fan1.jpg" alt="Picture of the mounted bottom part" width="400">
+</p>
 
 ![Picture with installed top lid](/docs/fan2.jpg)
 
