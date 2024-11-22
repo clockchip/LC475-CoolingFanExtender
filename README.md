@@ -24,13 +24,11 @@ Additionally, I recommend using heat-resistant filaments for printing these part
 
 ![Picture of the mounted bottom part](/docs/fan1.jpg)
 
-<img src="docs/fan1.jpg" style="display: inline-block; width: 49%;" alt="Picture of the mounted bottom part" />
+![Picture with installed top lid](/docs/fan2.jpg)
 
-<img src="docs/fan2.jpg" style="display: inline-block; width: 49%;" alt="Picture with installed top lid" />
+![Picture showing the details of the airflow inlet](/docs/fan3.jpg)
 
-<img src="docs/fan3.jpg" style="display: inline-block; width: 49%;" alt="Picture showing the details of the airflow inlet" />
-
-<img src="docs/fan4.jpg" style="display: inline-block; width: 49%;" alt="Top view of installation" />
+![Top view of installation](/docs/fan4.jpg)
 
 ## License
 
