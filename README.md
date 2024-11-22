@@ -4,7 +4,7 @@
 
 # 3D-Printable Cooling Fan Extension for Apple LC475
 
-This is a 3D-printable fan extension designed to mount on top of the 60mm x 60mm x 10mm case fan of an Apple LC475 computer. 
+This is a 3D-printable fan extension designed to be mounted on top of the 60mm x 60mm x 10mm case fan of an Apple LC475 computer. 
 The extension improves airflow by efficiently directing hot air away from the CPU cooler mounted on the built-in Motorola 68040 processor. 
 This enhances cooling performance and system stability.
 
@@ -13,9 +13,12 @@ The solution is split into two separate parts: the bottom part, which will be mo
 
 ## Printing Notes
 
-This can be printed without supports. On an FDM 3D printer this should be printed with enough outer shells to make it 100% solid.
+The bottom section should be printed with supports due to the presence of small notches that require additional structural backing.
 
+The top lid can be printed without any support structures; however, the Z-axis must be rotated 180 degrees to ensure a smooth interior finish. 
+This adjustment optimizes airflow and prevents dust from adhering to the inside surface.
 
+Additionally, I recommend using heat-resistant filaments for printing these parts.
 
 ## Pictures
 
